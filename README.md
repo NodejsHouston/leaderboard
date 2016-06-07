@@ -8,6 +8,13 @@ attendance and participation. It's really a launchpad for ideas and designed as
 a fun project to hack on without requiring a huge initial commitment outside of
 the _Code Node_ evenings.
 
+## Getting Started
+
+The project has a basic boilerplate setup so you can hit the ground
+running. Just run `npm run watch` for development; this includes a web server
+running on [localhost:3000](http://localhost:3000) and hot-reloading of the
+React components for maximum productivity.
+
 ## UI Wireframes
 
 Below you will find wireframes of the leaderboard's design.
